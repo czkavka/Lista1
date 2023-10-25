@@ -25,7 +25,7 @@
         <Border BorderBrush="Black" BorderThickness="6" Background="LemonChiffon" Grid.ColumnSpan="3" Grid.Row="0">
             <TextBox Name="window" TextAlignment="Center" FontSize="16"/>
         </Border>
-        <Button Name="b1" Content="1" FontSize="16" Grid.Column="0" Grid.Row="1" BorderBrush="Black" BorderThickness="3" Background="Orange" Click="Button_Click"/>
+        <Button Name="b1" Content="1" FontSize="16" Grid.Column="0" Grid.Row="1" BorderBrush="Black" BorderThickness="3" Background="Orange" />
         <Button Content="2" FontSize="16" Grid.Column="1" Grid.Row="1" BorderBrush="Black" BorderThickness="3" Background="Orange"/>
         <Button Content="3" FontSize="16" Grid.Column="2" Grid.Row="1" BorderBrush="Black" BorderThickness="3" Background="Orange"/>
         <Button Content="9" FontSize="16" Grid.Column="2" Grid.Row="3" BorderBrush="Black" BorderThickness="3" Background="Orange"/>
