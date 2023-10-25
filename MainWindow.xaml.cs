@@ -24,5 +24,10 @@ namespace Lista1
         {
             InitializeComponent();
         }
+
+        private void b1_Click(object sender, RoutedEventArgs e)
+        {
+            window.Text = b1.Content.ToString();
+        }
     }
 }
